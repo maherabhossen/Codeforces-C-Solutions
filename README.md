@@ -1,6 +1,5 @@
 # Codeforces-C-Solutions-
-My first Git repository
-# Codeforces C Solutions
+My first Git repository<br>
 
 Welcome to my repository of C solutions for Codeforces problems! I'm currently learning C and using competitive programming to sharpen my skills. This repo helps me track my progress, organize my solutions, and build good coding habits.
 
